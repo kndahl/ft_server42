@@ -1,7 +1,7 @@
 # ft_server
-Server 42
+Dockerfile that sets up an nginx server. It must run a Wordpress with a MySQL database and and PHPMyAdmin.
 
-To start:
+##To start:
 
 eval $(docker-machine env)
 
